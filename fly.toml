@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for invisiproxy-h-r-cw on 2026-09-05T20:02:56Z
+# fly.toml app configuration file generated for number1class on 2026-09-05T20:11:41Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'invisiproxy-h-r-cw'
+app = 'number1class'
 primary_region = 'ams'
 
 [build]
